@@ -1,0 +1,24 @@
+{
+  "name": "crudethan1",
+  "version": "1.0.0",
+  "description": "Proyecto",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ethanlacabra60/CRUDETHAN1.git"
+  },
+  "author": "Ethan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ethanlacabra60/CRUDETHAN1/issues"
+  },
+  "homepage": "https://github.com/ethanlacabra60/CRUDETHAN1#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
